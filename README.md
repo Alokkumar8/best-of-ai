@@ -90,6 +90,7 @@ This repository serves as your go-to guide for **AI tools that are actively main
 - [**Slite AI**](https://slite.com/) – Team docs with AI-powered summaries.  
 - [**Superhuman AI**](https://superhuman.com/) – Speedy, intelligent email management.
 - [**Gamma**](https://gamma.app/) – AI-powered platform for creating presentations, documents, and webpages with intelligent design and fast workflows.
+- [**Gamma**](https://aibrowser.surf/) – AI Browser enables users to automate web browsing tasks simply by writing prompts
 
 ---
 
